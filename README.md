@@ -3,7 +3,7 @@
   ## Conózcanme  
 
 ``` shell
-![](foto.jpg)
+![foto.jpg](foto.jpg)
 ```
 
 ## Descripción
