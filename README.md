@@ -3,7 +3,8 @@
   ## Conózcanme  
 
 ``` shell
-![foto.jpg](foto.jpg)
+![foto.jpg](https://raw.githubusercontent.com/AndreaOpazo/presentacion-AndreaOpazo/master/foto.jpg)
+
 ```
 
 ## Descripción
